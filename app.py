@@ -27,4 +27,8 @@ def hi():
             return num1-num2
         elif operation=='multiplication':
             return num1*num2
-        elif operation==
+        elif operation=='division':
+            return num1/num2
+
+if_name_=='_main_':
+    app.run()
